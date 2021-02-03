@@ -1,2 +1,2 @@
 # COVID-19-Impact-On-Indian-Stock-Market
-This repository consists of the data analysis and visualisation which I have done to gauge the impact of COVID-19 on Indian Stock Market mainly on benchmark indices i.e. NIFTY-50 and SENSEX.
+This project is an analysis based on the publicly available datasets related to COVID-19, Indian Stock Market Price Action Dataset, Volatility Prices and Oil Prices. The goal is to examine the behaviour of Indian Stock Market from Jan 2020 to Dec 2020 and how it was impacted due to COVID-19, Oil Price War between Russia and Saudi Arabia, Lockdowns due to COVID-19 and other major events happened during the period.

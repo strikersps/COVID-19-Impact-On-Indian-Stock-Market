@@ -1,6 +1,7 @@
 # Impact of COVID-19 on Indian Economy from the Perspective of Indian Stock Market
 
-**Link to Create Docker Image of Project Using Binder:** https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD
+**Link to Create Docker Image of Project Using Binder:** https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD  
+**NOTE:** Do run the jupyter notebook name `Impact_of_COVID19_on_Indian_Stock_Market.ipynb` after running the docker image from the aove link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see the all the visualisations.
 
 ## Objective
 This project is an analysis based on the publicly available datasets related to COVID-19, Indian Stock Market Indices Dataset, Volatility Prices and Oil Prices. The goal is to examine the behaviour of Indian Stock Market from Jan 2020 to Dec 2020 and how it was impacted due to COVID-19, Oil Price War between Russia and Saudi Arabia, Lockdowns due to COVID-19 and other major events happened during the period.  

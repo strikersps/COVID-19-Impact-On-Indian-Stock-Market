@@ -1,8 +1,6 @@
 # Impact of COVID-19 on Indian Economy from the Perspective of Indian Stock Market
 
-**Link to the Project Hosted On Binder:** https://hub.gke2.mybinder.org/user/strikersps-covi-an-stock-market-7h9xa4l1/tree
-
-**Link to the Jupyter-Notebook:** https://hub.gke2.mybinder.org/user/strikersps-covi-an-stock-market-7h9xa4l1/notebooks/Impact_of_COVID19_on_Indian_Stock_Market.ipynb
+**Link to Create Docker Image of Project Using Binder:** https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD
 
 ## Objective
 This project is an analysis based on the publicly available datasets related to COVID-19, Indian Stock Market Indices Dataset, Volatility Prices and Oil Prices. The goal is to examine the behaviour of Indian Stock Market from Jan 2020 to Dec 2020 and how it was impacted due to COVID-19, Oil Price War between Russia and Saudi Arabia, Lockdowns due to COVID-19 and other major events happened during the period.  

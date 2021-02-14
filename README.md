@@ -1,4 +1,5 @@
 # Impact of COVID-19 on Indian Economy from the Perspective of Indian Stock Market
+![](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Dalal-Street.jpg)
 
 **Link to Create Docker Image of Project Using Binder:** https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD  
 **NOTE:** Do run the jupyter notebook name `Impact_of_COVID19_on_Indian_Stock_Market.ipynb` after running the docker image from the above link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see the all the visualisations.

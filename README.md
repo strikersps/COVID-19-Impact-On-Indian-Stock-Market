@@ -2,6 +2,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 [![GitHub watchers](https://img.shields.io/github/watchers/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/watchers/)
 [![GitHub stars](https://img.shields.io/github/stars/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/network/)

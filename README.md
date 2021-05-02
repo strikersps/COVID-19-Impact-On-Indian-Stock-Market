@@ -1,8 +1,12 @@
 # Impact of COVID-19 on Indian Economy from the Perspective of Indian Stock Market  
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![GitHub forks](https://img.shields.io/github/forks/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/network/) [![GitHub stars](https://img.shields.io/github/stars/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/stargazers/) [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+[![GitHub watchers](https://img.shields.io/github/watchers/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Star&maxAge=2592000)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/network/)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
+
 ![Dalal Street Image](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Dalal-Street.jpg)
 
-**Link to Create Docker Image of Project Using Binder:** https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD  
 **NOTE:** Do run the jupyter notebook name `Impact_of_COVID19_on_Indian_Stock_Market.ipynb` after running the docker image from the above link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see all the visualizations.
 
 ## Objective

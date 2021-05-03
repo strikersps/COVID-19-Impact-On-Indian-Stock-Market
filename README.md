@@ -6,7 +6,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/issues)
 ![Dalal Street Image](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Dalal-Street.jpg)
 
-**NOTE:** Do run the jupyter notebook name `Impact_of_COVID19_on_Indian_Stock_Market.ipynb` after running the docker image from the above link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see all the visualizations.
+**NOTE:** Do run the jupyter notebook name [`Impact_of_COVID_19_on_Indian_Stock_Market.ipynb`](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Impact_of_COVID_19_On_Indian_Stock_Market.ipynb) after running the docker image from the above link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see all the visualizations.
 
 ## Objective
 This project is an analysis based on the publicly available datasets related to COVID-19, Indian Stock Market Indices Dataset, Volatility Prices and Oil Prices. The goal is to examine the behaviour of Indian Stock Market from Jan 2020 to Dec 2020 and how it was impacted due to COVID-19, Oil Price War between Russia and Saudi Arabia, Lockdowns due to COVID-19 and other major events happened during the period.  

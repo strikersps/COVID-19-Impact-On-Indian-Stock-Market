@@ -4,7 +4,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg)](https://GitHub.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/graphs/contributors/)
 [![GitHub Issues](https://img.shields.io/github/issues/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/stargazers/)
-[![GitHub Forks](https://img.shields.io/github/forks/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/network/)
+[![GitHub Forks](https://img.shields.io/github/forks/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/network/members)
 [![Dalal Street Image](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Dalal-Street.jpg)](https://www.bloombergquint.com/markets)
 
 **NOTE:** Do run the jupyter notebook name [`Impact_of_COVID_19_on_Indian_Stock_Market.ipynb`](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD) after running the docker image from the above link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see all the visualizations.

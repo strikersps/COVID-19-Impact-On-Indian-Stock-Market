@@ -9,10 +9,10 @@
 
 **NOTE:** Do run the jupyter notebook name [`Impact_of_COVID_19_on_Indian_Stock_Market.ipynb`](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD) after running the docker image from the above link again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see all the visualizations.
 
-### Objective
+## 1. Objective
 This project is an analysis based on the publicly available datasets related to COVID-19, Indian Stock Market Indices Dataset, Volatility Prices and Oil Prices. The goal is to examine the behaviour of Indian Stock Market from Jan 2020 to Dec 2020 and how it was impacted due to COVID-19, Oil Price War between Russia and Saudi Arabia, Lockdowns due to COVID-19 and other major events happened during the period.  
 
-### Introduction
+## 2. Introduction
 * Indian stock market saw one of the biggest falls in its history i.e. **BSE SENSEX and NIFTY-50 corrected sharply by 38% in March 2020**, more specifically this crash was another major crash after the Global Financial Crisis of 2008 which was due to fall in the Housing Price in the USA.
 * COVID-19 had a brutal and dramatic impact on financial markets all over the world. It has exposed investors to unprecedented levels of risks causing investors all over the world to suffer significant losses in a very short period of time. 
 
@@ -25,7 +25,7 @@ This project is an analysis based on the publicly available datasets related to 
 
 * **The efficient-market hypothesis (EMH) is a hypothesis in financial economics that states that asset prices reflect all available information. A direct implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information. The idea that financial market returns are difficult to predict goes back to [Bachelier (1900)](https://en.wikipedia.org/wiki/Efficient-market_hypothesis#cite_note-3), [Mandelbrot (1963)](https://en.wikipedia.org/wiki/Benoit_Mandelbrot), and [Samuelson (1965)](https://en.wikipedia.org/wiki/Paul_Samuelson), but is closely associated with [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama), in part due to his influential 1970 review of the theoretical and empirical research.**
 
-### Datasets
+## 3. Datasets
 * For the project I have extracted the datasets of price actions of SENSEX, NIFTY50, INDIA VIX, COVID-19 Total Deaths and Cases Worldwide, and also the price actions of some of the sector indices which are heavily impacted due to COVID-19 i.e. NIFTY-AUTO, NIFTY-IT, NIFTY-PHARMA, NIFTY-BANK, NIFTY-MEDIA, NIFTY-REALTY, NIFTY-FMCG.
 * As the Oil Price War between Saudi Arabia and Russia has also impacted the market I have also used the Crude Oil WTI and BRENT Europe Price Data with CBOE-Crude-Oil Volatilty dataset. 
 * For some of the datasets I have used a python library `Quandl` which provides access to price actions of various financial securities/instruments as described in the above cells.
@@ -33,7 +33,7 @@ This project is an analysis based on the publicly available datasets related to 
 * Following table shows a summary of all the datsets with their source:
 
 | Sr.No | Name of Dataset | Source |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | 1 | COVID-19-Dataset | [Our World In Data COVID-19 Dataset](https://github.com/owid/covid-19-data/tree/master/public/data) |
 | 2 | Crude Oil WTI Price Index | Fetched through `quandl`|
 | 3 | BRENT Europe Crude Oil Price Index| Fetched through `quandl`|
@@ -54,19 +54,14 @@ This project is an analysis based on the publicly available datasets related to 
 * The datasets listed above are final datasets (subject to change as it is a time-series) data.
 * I have not included one more dataset on which I am working on i.e. Twitter Dataset as it requires more time in order to implement Association Rule Mining algorithm to find out words people are most using whenever they tweet during the COVID-19 period.
 
-### Future Works
-* The best way to measure the sentiment of the people is by doing the association rule mining and sentiment analysis of tweets written by people all around the world on twitter during this time period because almost every politician, CEOs, leaders etc are on twitter and they use it as a platform to convey their views.
-
-* After doing twitter sentiment analysis and relating it to the fall of the market may give me an opportunity to publish a research paper and make my work presentable in the researh community.
-
-### Conclusions
+## 4. Conclusions
 * The main conclusions drawn from the above work are: 
     * **Market was reacting to the anticipation and the consequences of Globalization.** The market downturn/sharp correction in the global markets was influenced by a non-economic factor/an unpredicted event i.e. COVID-19 Pandemic and it has affected almost all of the major sectors of the global economy. 
     But one more question arises at the same time that how only COVID-19 pandemic has made the market fall by that much, more clearly **Does COVID-19 is the only reason for the fall happened in March-2020?** and the answer is Yes but not just COVID-19 rather the sequence of events or the ripple affect caused by COVID-19 like countries imposing strict lockdown policies, businesses are shutting down their daily operations except the pharmaceutical and consumer discretionary sectors, MSMEs (Micro, Small & Medium Enterprises) are severely affected due to lockdowns, people all around the world were panicking (which is not good) under the impression of Global Recession and at the same time there was an [Oil Price War](https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war) which had happened between Saudi-Arabia and Russia which made the market fall further in the March and April of 2020.  
 
     * COVID-19 is still present and it is affecting people at a pace but markets all around the world are at all time highs just after the fall of March, 2020 which is a contradiction to my initial hyphothesis which was based upon previous financial crisis i.e. **"It will take atleast 2 years for the market to recover its losses and reach its all-time highs again"** but the opposite has happen with markets globally recovered its losses in just 8-9 months.    
 ![NIFTY-50 Record-Pace to Reach 13K](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/NIFTY-50%20Milestones%20Chart.jpeg)  
-*  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when market crashed due to Coronavirus Pandemic!.
+   *  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when market crashed due to Coronavirus Pandemic!.
 
-### License  
+## 5. License  
 [![GPLv3 license](https://img.shields.io/github/license/strikersps/COVID-19-Impact-On-Indian-Stock-Market?style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html) 

@@ -27,7 +27,7 @@ This project is an analysis based on the publicly available datasets related to 
 
 ## 3. Datasets
 * For the project I have extracted the datasets of price actions of SENSEX, NIFTY50, INDIA VIX, COVID-19 Total Deaths and Cases Worldwide, and also the price actions of some of the sector indices which are heavily impacted due to COVID-19 i.e. NIFTY-AUTO, NIFTY-IT, NIFTY-PHARMA, NIFTY-BANK, NIFTY-MEDIA, NIFTY-REALTY, NIFTY-FMCG.
-* As the Oil Price War between Saudi Arabia and Russia has also impacted the market I have also used the Crude Oil WTI and BRENT Europe Price Data with CBOE-Crude-Oil Volatilty dataset. 
+* As the Oil Price War between Saudi Arabia and Russia has also impacted the market I have also used the Crude Oil WTI and BRENT Europe Price Data with CBOE-Crude-Oil Volatility dataset. 
 * For some of the datasets I have used a python library `Quandl` which provides access to price actions of various financial securities/instruments as described in the above cells.
 
 * Following table shows a summary of all the datsets with their source:
@@ -49,10 +49,6 @@ This project is an analysis based on the publicly available datasets related to 
 | 13 | NIFTY-Bank| [NIFTY-Bank-Index-Data](https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm)|
 | 14 | NIFTY-Realty| [NIFTY-Realty-Index-Data](https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm)|
 | 15 | Google Trends | Fetched using `pytrends` |
-
-**NOTE**
-* The datasets listed above are final datasets (subject to change as it is a time-series) data.
-* I have not included one more dataset on which I am working on i.e. Twitter Dataset as it requires more time in order to implement Association Rule Mining algorithm to find out words people are most using whenever they tweet during the COVID-19 period.
 
 ## 4. Conclusions
 * The main conclusions drawn from the above work are: 

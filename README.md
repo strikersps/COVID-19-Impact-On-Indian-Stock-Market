@@ -58,7 +58,7 @@ This project is an analysis based on the publicly available datasets related to 
     * COVID-19 is still present and it is affecting people at a pace but markets all around the world are at all time highs just after the fall of March, 2020 which is a contradiction to my initial hyphothesis which was based upon previous financial crisis i.e. **"It will take atleast 2 years for the market to recover its losses and reach its all-time highs again"** but the opposite has happened 
 with markets globally recovered its losses in just 8-9 months.    
 ![NIFTY-50 Record-Pace to Reach 13K](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/NIFTY-50%20Milestones%20Chart.jpeg)  
-   *  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when market crashed due to Coronavirus Pandemic!.
+   *  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when market crashed by approximately 13% due to Coronavirus Pandemic!.
 
 ## 5. License  
 [![GPLv3 license](https://img.shields.io/github/license/strikersps/COVID-19-Impact-On-Indian-Stock-Market?style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html) 

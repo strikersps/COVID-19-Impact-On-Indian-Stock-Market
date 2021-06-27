@@ -26,14 +26,14 @@ This project is an analysis based on the publicly available datasets related to 
 * **The efficient-market hypothesis (EMH) is a hypothesis in financial economics that states that asset prices reflect all available information. A direct implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information. The idea that financial market returns are difficult to predict goes back to [Bachelier (1900)](https://en.wikipedia.org/wiki/Efficient-market_hypothesis#cite_note-3), [Mandelbrot (1963)](https://en.wikipedia.org/wiki/Benoit_Mandelbrot), and [Samuelson (1965)](https://en.wikipedia.org/wiki/Paul_Samuelson), but is closely associated with [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama), in part due to his influential 1970 review of the theoretical and empirical research.**
 
 ## 3. Datasets
-* For the project I have extracted the datasets of price actions of SENSEX, NIFTY50, INDIA VIX, COVID-19 Total Deaths and Cases Worldwide, and also the price actions of some of the sector indices which are heavily impacted due to COVID-19 i.e. NIFTY-AUTO, NIFTY-IT, NIFTY-PHARMA, NIFTY-BANK, NIFTY-MEDIA, NIFTY-REALTY, NIFTY-FMCG.
-* As the Oil Price War between Saudi Arabia and Russia has also impacted the market I have also used the Crude Oil WTI and BRENT Europe Price Data with CBOE-Crude-Oil Volatility dataset. 
-* For some of the datasets I have used a python library `Quandl` which provides access to price actions of various financial securities/instruments as described in the above cells.
+* Extracted dataset's are of price actions of SENSEX, NIFTY-50, INDIA VIX, COVID-19 Total Deaths and Cases Worldwide, and also the price actions of some of the sector indices which are heavily impacted due to COVID-19 i.e. NIFTY-AUTO, NIFTY-IT, NIFTY-PHARMA, NIFTY-BANK, NIFTY-MEDIA, NIFTY-REALTY, NIFTY-FMCG.
+* As the Oil Price War between Saudi Arabia and Russia has also impacted the market, the dataset's related to Crude Oil WTI, BRENT Europe and CBOE-Crude-Oil Volatility are also used. 
+* For some of the dataset's, the python library [`Quandl`](https://www.quandl.com/) which provides access to data about various economic variables or price data of financial securities/instruments.
 
 * Following table shows a summary of all the datsets with their source:
 
-| Sr.No | Name of Dataset | Source |
-| :--- | :--- | :--- |
+| Sr. No | Name of Dataset | Source |
+| :---: | :---: | :---: |
 | 1 | COVID-19-Dataset | [Our World In Data COVID-19 Dataset](https://github.com/owid/covid-19-data/tree/master/public/data) |
 | 2 | Crude Oil WTI Price Index | Fetched through `quandl`|
 | 3 | BRENT Europe Crude Oil Price Index| Fetched through `quandl`|
@@ -51,14 +51,14 @@ This project is an analysis based on the publicly available datasets related to 
 | 15 | Google Trends | Fetched using `pytrends` |
 
 ## 4. Conclusions
-* The main conclusions drawn from the above work are: 
-    * **Market was reacting to the anticipation and the consequences of globalization.** The market downturn/sharp correction in the global markets was influenced by several non-economic factors due to an unpredicted event i.e. COVID-19 Pandemic and it has affected almost all of the major sectors of the global economy. 
+- The main conclusions drawn from the above work are: 
+    - **Market was reacting to the anticipation and the consequences of globalization.** The market downturn/sharp correction in the global markets was influenced by several non-economic factors due to an unpredicted event i.e. COVID-19 Pandemic and it has affected almost all of the major sectors of the global economy. 
     But one more question arises at the same time that how only COVID-19 pandemic has made the market fall by that much, more clearly **Does COVID-19 is the only reason for the fall happened in March-2020?** and the answer is Yes but not just COVID-19 rather the sequence of events or the ripple affect caused by COVID-19 like countries imposing strict lockdown policies, businesses are shutting down their daily operations except the pharmaceutical and consumer discretionary sectors, MSMEs (Micro, Small & Medium Enterprises) are severely affected due to lockdowns, people all around the world especially investors were panicking under the impression of Global Recession and at the same time there was an [Oil Price War](https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war) which had happened between Saudi-Arabia and Russia which made the market fall further in the March and April of 2020.  
 
-    * COVID-19 is still present and it is affecting people at a pace but markets all around the world are at all time highs just after the fall of March, 2020 which is a contradiction to my initial hyphothesis which was based upon previous financial crisis i.e. **"It will take atleast 2 years for the market to recover its losses and reach its all-time highs again"** but the opposite has happened 
+    - COVID-19 is still present and it is affecting people at a pace but markets all around the world are at all time highs just after the fall of March, 2020 which is a contradiction to my initial hyphothesis which was based upon previous financial crisis i.e. **"It will take atleast 2 years for the market to recover its losses and reach its all-time highs again"** but the opposite has happened 
 with markets globally recovered its losses in just 8-9 months.    
 ![NIFTY-50 Record-Pace to Reach 13K](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/NIFTY-50%20Milestones%20Chart.jpeg)  
-   *  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when benchmark indices i.e. SENSEX and NIFTY-50 of indian stock market crashed by approximately 13% due to Coronavirus Pandemic!
+   -  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when benchmark indices i.e. SENSEX and NIFTY-50 of indian stock market crashed by approximately 13% due to Coronavirus Pandemic!
 
 ## 5. License  
-[![GPLv3 license](https://img.shields.io/github/license/strikersps/COVID-19-Impact-On-Indian-Stock-Market?style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html) 
+[![GPL-V3 license](https://img.shields.io/github/license/strikersps/COVID-19-Impact-On-Indian-Stock-Market?color=red&style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html) 

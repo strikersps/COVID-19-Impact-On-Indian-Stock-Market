@@ -1,5 +1,8 @@
-# Impact of COVID-19 On Indian Economy from the Perspective of Indian Stock Market.  
-# [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) ![Repo-Size-Badge](https://img.shields.io/github/repo-size/strikersps/COVID-19-Impact-On-Indian-Stock-Market?color=%23ff0000&style=for-the-badge) [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
+# Impact of COVID-19 On Indian Economy from The Perspective of Indian Stock Market.  
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
+![Repo-Size-Badge](https://img.shields.io/github/repo-size/strikersps/COVID-19-Impact-On-Indian-Stock-Market?color=%23ff0000&style=for-the-badge) 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg)](https://GitHub.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/graphs/contributors/)
 [![GitHub Issues](https://img.shields.io/github/issues/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/issues)

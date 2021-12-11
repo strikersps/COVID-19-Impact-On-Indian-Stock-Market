@@ -2,7 +2,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
 ![Repo-Size-Badge](https://img.shields.io/github/repo-size/strikersps/COVID-19-Impact-On-Indian-Stock-Market?color=%23ff0000&style=for-the-badge) 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/strikersps/COVID-19-Impact-On-Indian-Stock-Market.svg)](https://GitHub.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/graphs/contributors/)
 [![GitHub Issues](https://img.shields.io/github/issues/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/issues)
@@ -10,7 +10,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/strikersps/COVID-19-Impact-On-Indian-Stock-Market)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/network/members)
 [![Dalal Street Image](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Dalal-Street.jpg)](https://www.bloombergquint.com/markets)
 
-**NOTE:** Do run the jupyter notebook name [`Impact-of-COVID-19-On-Indian-Economy.ipynb`](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Impact-of-COVID-19-On-Indian-Economy.ipynb) again by going into `Kernel` dropdown in the taskbar and select `Restart & Run All` in order to see all the visualizations after running the docker image by clicking [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
+**NOTE:** Run the jupyter notebook name [`Impact-of-COVID-19-On-Indian-Economy.ipynb`](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/Impact-of-COVID-19-On-Indian-Economy.ipynb) from the file explorer in the Jupyter Lab after clicking on the badge: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/COVID-19-Impact-On-Indian-Stock-Market/HEAD)
 
 ## 1. Objective
 This project is an analysis based on the publicly available datasets related to COVID-19, Indian Stock Market Indices Dataset, Volatility Prices and Oil Prices. The goal is to examine the behaviour of Indian Stock Market from Jan 2020 to Dec 2020 and how it was impacted due to COVID-19, Oil Price War between Russia and Saudi Arabia, Lockdowns due to COVID-19 and other major events happened during the period.  

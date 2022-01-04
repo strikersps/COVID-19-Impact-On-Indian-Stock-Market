@@ -67,5 +67,5 @@ with markets globally recovered its losses in just 8-9 months.
 ![NIFTY-50 Record-Pace to Reach 13K](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/NIFTY-50%20Milestones%20Chart.jpeg)  
    -  The above snapshot shows that it just took **170 trading days** for NIFTY-50 to reach 13K (All Time Highs) from 8,318 point recorded on March 25, 2020 when benchmark indices i.e. SENSEX and NIFTY-50 of indian stock market crashed by approximately 13% due to Coronavirus Pandemic!
 
-## 5. License  
-[![GPL-V3 license](https://img.shields.io/github/license/strikersps/COVID-19-Impact-On-Indian-Stock-Market?color=red&style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html)
+###### GNU General Public License v3.0
+[![GPL-V3 license](https://img.shields.io/github/license/strikersps/COVID-19-Impact-On-Indian-Stock-Market?color=red&style=for-the-badge)](https://github.com/strikersps/COVID-19-Impact-On-Indian-Stock-Market/blob/main/LICENSE)
